@@ -64,6 +64,14 @@ nav ul {
 
 }
 
+nav ul li a {
+  display: block;
+  border: 1px solid;
+  border-radius: 6px;
+  padding: .5em 1em;
+  margin: .5em;
+}
+
 /* main "products" styles */
 main {
   font-family: 'Stint Ultra Expanded', cursive;
